@@ -1,4 +1,4 @@
-# VerifilerMSLegacy - Verifiler plugin
+# VerifilerODF - Verifiler plugin
               
 [GitHub](https://github.com/Hanzik/verifiler-odf) | [NuGet](https://www.nuget.org/packages/VerifilerODF/)
 
